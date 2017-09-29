@@ -1,0 +1,13 @@
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleEdit\SupSubtitleParser\obj\Debug\SupSubtitleParser.csproj.CoreCompileInputs.cache
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleEdit\SupSubtitleParser\bin\Debug\SupSubtitleParser.exe.config
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleEdit\SupSubtitleParser\bin\Debug\SupSubtitleParser.exe
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleEdit\SupSubtitleParser\bin\Debug\SupSubtitleParser.pdb
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleEdit\SupSubtitleParser\obj\Debug\SupSubtitleParser.exe
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleEdit\SupSubtitleParser\obj\Debug\SupSubtitleParser.pdb
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleEdit\SupSubtitleParser\obj\Debug\SupSubtitleParser.csprojResolveAssemblyReference.cache
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleParser\SubtitleParser\obj\Debug\SupSubtitleParser.csproj.CoreCompileInputs.cache
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleParser\SubtitleParser\obj\Debug\SupSubtitleParser.exe
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleParser\SubtitleParser\obj\Debug\SupSubtitleParser.pdb
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleParser\SubtitleParser\bin\Debug\SupSubtitleParser.exe.config
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleParser\SubtitleParser\bin\Debug\SupSubtitleParser.exe
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleParser\SubtitleParser\bin\Debug\SupSubtitleParser.pdb

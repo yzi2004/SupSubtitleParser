@@ -1,0 +1,6 @@
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleParser\SubtitleParser\bin\Release\SupSubtitleParser.exe.config
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleParser\SubtitleParser\bin\Release\SupSubtitleParser.exe
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleParser\SubtitleParser\bin\Release\SupSubtitleParser.pdb
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleParser\SubtitleParser\obj\Release\SupSubtitleParser.csproj.CoreCompileInputs.cache
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleParser\SubtitleParser\obj\Release\SupSubtitleParser.exe
+C:\Users\stream651_g-yo\Documents\Visual Studio 2017\Projects\SubtitleParser\SubtitleParser\obj\Release\SupSubtitleParser.pdb
