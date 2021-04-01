@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SupSubtitleParserCore": {
+      "commandName": "Project",
+      "commandLineArgs": "-i E:\\BT\\Austin.Powers.in.Goldmember.2002.Bluray.1080p.TrueHD.x264-Grym\\Austin.Powers.in.Goldmember.2002.Bluray.1080p.TrueHD.x264-Grym_track5_[eng].sup"
+    }
+  }
+}
