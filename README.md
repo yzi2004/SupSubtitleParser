@@ -1,9 +1,14 @@
-this project is discontinued
-I rewrite a new tool support sup and sub file.
+
+### This project is discontinued
+
+ __I write a new tool support sup and sub file.__ 
+ 
 https://github.com/yzi2004/SubtitleParser
 
 
-# SupSubtitleParser
+
+
+## SupSubtitleParser
 
 
 A console tool that parse PGS format( known as *.sup file) subtitle  to time line text and subtitle images. 
